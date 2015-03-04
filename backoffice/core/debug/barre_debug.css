@@ -1,0 +1,24 @@
+.barre_debug
+{
+	background-color: #595959;
+    bottom: 0;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+}
+
+.list_block
+{
+	display: inline-block;
+	width: 200px;
+	height: 40px;
+	text-align: center;
+	padding: 10px;
+}
+.container_debug
+{
+	width: 608px;
+	margin: auto;
+
+}
+
